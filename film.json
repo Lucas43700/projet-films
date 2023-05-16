@@ -1,0 +1,356 @@
+{
+    "Search":[
+       {
+          "Title":"Star Wars: Episode IV - A New Hope",
+          "Year":"1977",
+          "imdbID":"tt0076759",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_SX300.jpg"
+       },
+       {
+          "Title":"Star Wars: Episode V - The Empire Strikes Back",
+          "Year":"1980",
+          "imdbID":"tt0080684",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Star Wars: Episode VI - Return of the Jedi",
+          "Year":"1983",
+          "imdbID":"tt0086190",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Star Wars: Episode VII - The Force Awakens",
+          "Year":"2015",
+          "imdbID":"tt2488496",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Star Wars: Episode I - The Phantom Menace",
+          "Year":"1999",
+          "imdbID":"tt0120915",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Star Wars: Episode III - Revenge of the Sith",
+          "Year":"2005",
+          "imdbID":"tt0121766",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Star Wars: Episode II - Attack of the Clones",
+          "Year":"2002",
+          "imdbID":"tt0121765",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Rogue One: A Star Wars Story",
+          "Year":"2016",
+          "imdbID":"tt3748528",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Star Wars: Episode VIII - The Last Jedi",
+          "Year":"2017",
+          "imdbID":"tt2527336",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Star Wars: Episode IX - The Rise of Skywalker",
+          "Year":"2019",
+          "imdbID":"tt2527338",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SX300.jpg"
+       },
+       {
+        "Title":"Jurassic Park",
+        "Year":"1993",
+        "imdbID":"tt0107290",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Jurassic World",
+        "Year":"2015",
+        "imdbID":"tt0369610",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Lost World: Jurassic Park",
+        "Year":"1997",
+        "imdbID":"tt0119567",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMDFlMmM4Y2QtNDg1ZS00MWVlLTlmODgtZDdhYjY5YjdhN2M0XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Jurassic Park III",
+        "Year":"2001",
+        "imdbID":"tt0163025",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZDMyZGJjOGItYjJkZC00MDVlLWE0Y2YtZGIwMDExYWE3MGQ3XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Jurassic World: Fallen Kingdom",
+        "Year":"2018",
+        "imdbID":"tt4881806",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Jurassic World: Dominion",
+        "Year":"2022",
+        "imdbID":"tt8041270",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Jurassic World: Camp Cretaceous",
+        "Year":"2020–2022",
+        "imdbID":"tt10436228",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNjYyZjNiODgtNTQxNC00MWQyLTljMTAtYzI2NzZkNWNlYmU1XkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Jurassic Shark",
+        "Year":"2012",
+        "imdbID":"tt2071491",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BODI1ODAyODgtZDYzZS00ZTM2LTg5MzMtZjNjMDFjMzlkZGQ2XkEyXkFqcGdeQXVyMTg0MTI3Mg@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Jurassic Games",
+        "Year":"2018",
+        "imdbID":"tt6710826",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZWJkMzE4ZTAtOTY1ZS00YmZjLWI2MzQtZTg4MzdiN2U4NmUyXkEyXkFqcGdeQXVyMTUwMzY1MDM@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Jurassic City",
+        "Year":"2015",
+        "imdbID":"tt2905674",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjM1MzUyMTk5MV5BMl5BanBnXkFtZTgwOTc2NzA0NDE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"D'artagnan and Three Musketeers",
+        "Year":"1979",
+        "imdbID":"tt0076998",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNzFiNzM0YzktNTZkMi00NDg2LWFkYTYtMWJlODNjNTI5Yzc5XkEyXkFqcGdeQXVyNDE4OTY5NzI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Three Musketeers: D'Artagnan",
+        "Year":"2023",
+        "imdbID":"tt12672536",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZGM1NjE5MzQtMmNiYy00ZWIxLWFiMGUtMzE1N2EzNzY0MjY0XkEyXkFqcGdeQXVyMTUzMTUxMzk1._V1_SX300.jpg"
+     },
+     {
+        "Title":"Cyrano et d'Artagnan",
+        "Year":"1964",
+        "imdbID":"tt0057988",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjM1NmM1ZjEtMWMxNy00ZGU3LWEyMzYtNjcwMzUzNmJiMTkyXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Secret Mark of D'Artagnan",
+        "Year":"1962",
+        "imdbID":"tt0055857",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMzA0YzU0ZTctYTBlYy00ZTZhLWI2MWUtMDNmN2EyM2I1NjdjXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"D'Artagnan contro i 3 moschettieri",
+        "Year":"1963",
+        "imdbID":"tt0167862",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMDRkNDNlM2MtYWI5Yi00NDRiLWJiZDUtMGYwZjc4MjBkNDU2XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"D'Artagnan",
+        "Year":"1969–",
+        "imdbID":"tt0220219",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNTBhNzk1ZTktMTZlMi00NDRhLTliOWYtNjQ2YTgyZTVkMWRkXkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_SX300.jpg"
+     },
+     {
+        "Title":"La véritable histoire de d'Artagnan",
+        "Year":"2021",
+        "imdbID":"tt14430538",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZGU2N2ZkMDEtOGE2YS00YzdkLWJlZTctN2FmZGJmNmZjNmUyXkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_SX300.jpg"
+     },
+     {
+        "Title":"D'artagnan is the Champion",
+        "Year":"2014",
+        "imdbID":"tt3377094",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjA2MDI5MTc3M15BMl5BanBnXkFtZTgwMzkwNDA1MjE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"D'Artagnan amoureux",
+        "Year":"1977–",
+        "imdbID":"tt0169431",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMmRjNTY2YzctZjhkOS00ZmE4LWEwNWItN2NkYmQzMGE0MjAzXkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Il figlio di d'Artagnan",
+        "Year":"1950",
+        "imdbID":"tt0041367",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BY2IzOTE5NTktZWE2OC00ODk1LWI1N2YtYjNmMDE1MGMyYWUxXkEyXkFqcGdeQXVyODcwODg0OQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Jaws",
+        "Year":"1975",
+        "imdbID":"tt0073195",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Jaws 2",
+        "Year":"1978",
+        "imdbID":"tt0077766",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BN2U1MWE1NTMtYjQ2ZC00MTFmLWFmYjItODMyNGYxOTAyZmEzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Jaws: The Revenge",
+        "Year":"1987",
+        "imdbID":"tt0093300",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNGI1MTAxMWItOTE0OC00ZDhkLWE3Y2EtNjFiZmQ4NjQ1NGNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Jaws 3-D",
+        "Year":"1983",
+        "imdbID":"tt0085750",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMzdlOGU2ODUtODk1YS00M2ZmLWEwNjEtODJhOGE5N2Y4ZTQyXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg"
+     },
+     {
+        "Title":"Jaws 19",
+        "Year":"2015",
+        "imdbID":"tt5033000",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZjRmMzYzMTctZmE5MC00NWZjLTk5YmItYjQ1YTljMDdlYWYxXkEyXkFqcGdeQXVyNDcwNDE0Nzk@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Santa Jaws",
+        "Year":"2018",
+        "imdbID":"tt8305692",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZjdmZjQ2ODktMzUwYy00MWRlLThiZWYtMzFkODBlN2I1OWZhXkEyXkFqcGdeQXVyMzQ5OTc2Mzk@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Mako: The Jaws of Death",
+        "Year":"1976",
+        "imdbID":"tt0074845",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BODJiZmI1Y2ItMjBiNS00NGU0LTk2NmQtNGQ0YmVkYjNiNjlmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Cruel Jaws",
+        "Year":"1995",
+        "imdbID":"tt0112747",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYTgxN2I4ZjEtMjAyZS00MzM5LWE0MjAtZmQ4M2UyMjgwODcwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Jaws of Satan",
+        "Year":"1981",
+        "imdbID":"tt0082580",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTUyOTY4Mzc0N15BMl5BanBnXkFtZTcwNTY2NjE2NA@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"In the Jaws of Life",
+        "Year":"1984",
+        "imdbID":"tt0088312",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTIzNjU2ODUwOV5BMl5BanBnXkFtZTYwMzc2MDg4._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Bad Guys",
+        "Year":"2022",
+        "imdbID":"tt8115900",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMDhkYmU0MzctMWEzNy00ODg1LWI3ZjAtMGZlZjkzNWVmMzVjXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX300.jpg"
+     },
+     {
+        "Title":"Say Goodnight to the Bad Guys",
+        "Year":"2008",
+        "imdbID":"tt1324027",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTcxNDkyMTk5Ml5BMl5BanBnXkFtZTcwNzIyMzA3Nw@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Bad Guys: The Movie",
+        "Year":"2019",
+        "imdbID":"tt10726604",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BM2ExYjA0ZWUtZjliYi00NDA4LTgwYTctZDI4M2I1ZDQ0YjYzXkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_SX300.jpg"
+     },
+     {
+        "Title":"Bad Guys",
+        "Year":"2014",
+        "imdbID":"tt3914520",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjI2NjY4MDctYjE5Ni00OWJmLTg5MjEtYTYyYjkzZjU5NjIzXkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Good Guys and the Bad Guys",
+        "Year":"1969",
+        "imdbID":"tt0064379",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZGIxMDAwNTctMWFlYi00N2Y5LTg4M2EtZjUxYzAzYTA0ZTBkXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Bad Guys",
+        "Year":"2018",
+        "imdbID":"tt2690634",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTExNTEzMzM3OTNeQTJeQWpwZ15BbWU4MDY2OTI1OTYx._V1_SX300.jpg"
+     },
+     {
+        "Title":"Bad Guys Always Die",
+        "Year":"2015",
+        "imdbID":"tt5157018",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZWU5ZWM3Y2UtMWI5NC00NTM5LTkzZDEtMmZjNGI4ZTA1NTdhXkEyXkFqcGdeQXVyMjExMzEyNTM@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Bad Guys: Vile City",
+        "Year":"2017–",
+        "imdbID":"tt12404980",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZmQ4ZWNiZTktMTFiYS00YTY0LWJmZDItMjQwYmY1MmQ0NDkyXkEyXkFqcGdeQXVyOTQwNjAzMjM@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Bad Guys",
+        "Year":"2008",
+        "imdbID":"tt0454402",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTI5NDQ2NzIyMF5BMl5BanBnXkFtZTcwNTQxMzAwMw@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Good Guys Bad Guys",
+        "Year":"1997–1998",
+        "imdbID":"tt0118326",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjI4MTQ4ODA0Ml5BMl5BanBnXkFtZTgwOTIyMDE2MDE@._V1_SX300.jpg"
+     }
+    ],
+    "totalResults":"788",
+    "Response":"True"
+ }
